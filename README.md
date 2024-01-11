@@ -21,6 +21,7 @@
     * [pandas (2.1.1)](https://pandas.pydata.org)
     * [matplotlib (3.8.1)](https://matplotlib.org)
     * [plotly (5.18.0)](https://plotly.com/python/)
+    * [seaborn (0.13.0)](https://seaborn.pydata.org)
 
 ## Установка проекта
 
